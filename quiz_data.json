@@ -1,0 +1,74 @@
+[
+
+	{
+		"question" : "What are the four steps of safe food preparation?",	
+		"answers"   : [
+			{ "id" : 0, "text" : "Clean, Separate, Cook, and Chill" },
+			{ "id" : 1, "text" : "Shop, Clean, Thaw, and Cook" },
+			{ "id" : 2, "text" : "Thaw, Cook, Serve, and Freeze" },
+			{ "id" : 3, "text" : "Shop, Store,Thaw, and Cook" }
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "What temperature should your home refrigerator and freezer be set at to ensure safe storage of perishable foods?",
+		"answers"  : [
+			{"id"  : 0, "text" : "35 and zero degrees" },
+			{"id"  : 1, "text" : "40 and -10 degrees" },
+			{"id"  : 2, "text" : "40 and zero degrees" },
+			{"id"  : 3, "text" : "45 and -5 degrees" }
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "What is the recommended time for hand washing prior to preparing food?",
+		"answers"  : [
+			{"id"  : 0, "text" : "10 seconds"},
+			{"id"  : 1, "text" : "20 seconds"},
+			{"id"  : 2, "text" : "30 seconds"},
+			{"id"  : 3, "text" : "40 seconds"}
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "Which of the following statements is correct for properly thawing frozen food?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Thaw in a refrigerator"},
+			{"id"  : 1, "text" : "Thaw in sink using cold water"},
+			{"id"  : 2, "text" : "Thaw using microwave"},
+			{"id"  : 3, "text" : "All of the above"}
+		],
+		"correct"  : 3	
+	},
+	{
+		"question" : "What are the recommended minimum internal cooking temperatures for beef, ground meats, and poultry?",
+		"answers"  : [
+			{"id"  : 0, "text" : "135, 150, and 160"},
+			{"id"  : 1, "text" : "145, 160, and 165"},
+			{"id"  : 2, "text" : "140, 155, and 160"},
+			{"id"  : 3, "text" : "160, 165, and 170"}
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "What are the recommended minimum temperatures for maintaining safe conditions for hot and cold prepared foods?",
+		"answers"  : [
+			{"id"  : 0, "text" : "140 and 40"},
+			{"id"  : 1, "text" : "160 and 35"},
+			{"id"  : 2, "text" : "150 and 35"},
+			{"id"  : 3, "text" : "160 and 40"}
+		],
+		"correct"  : 0
+	},
+	{
+		"question" : "It is recommended to use up cooked leftovers after how many days?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Two days"},
+			{"id"  : 1, "text" : "Three days"},
+			{"id"  : 2, "text" : "Four days"},
+			{"id"  : 3, "text" : "Seven days"}
+		],
+		"correct"  : 1
+	}
+
+]
